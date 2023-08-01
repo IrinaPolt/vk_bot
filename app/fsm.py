@@ -46,6 +46,7 @@ class VkBot(object):
                 message=response,
                 random_id=get_random_id(),
                 keyboard=create_keyboard(None))
+            self.beginning()
             return
 
         if message == "Заказать":
