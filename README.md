@@ -1,6 +1,10 @@
 # vk_bot
 test project for implementing dockerized vk_bot
 
+## Task and logic 
+
+The chatbot represents a bakery/confectionery showcase. There are 3 full sections, each containing 3 products (showed by fully functioning carousel). Each product has description, a photo and link. Users can navigate between sections and return to the previous section, also make simple orders.
+The navigation is facilitated using buttons.
 
 ### To run the project, follow these steps:
 

@@ -1,6 +1,6 @@
-envreader
-dataclasses
-psycopg2-binary
+envreader==0.0.5
+dataclasses==0.6
+psycopg2-binary==2.9.6
 transitions==0.9.0
 vk-api==11.9.9
 vktools==1.0.6
